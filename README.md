@@ -12,7 +12,7 @@ SDL_AUDIODRIVER=pulseaudio OBS_VKCAPTURE_NAME="Dota 2" obs-gamecapture %command%
 ```
 `SDL_AUDIODRIVER=pulseaudio` - Fixes audio issues for Source 2 games
 
-Dota 2
+Overwatch 2
 ---
 ```shell
 DXVK_FILTER_DEVICE_NAME="AMD" %command%
